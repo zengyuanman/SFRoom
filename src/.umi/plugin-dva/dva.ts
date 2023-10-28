@@ -3,10 +3,10 @@ import { Component } from 'react';
 import { ApplyPluginsType } from 'umi';
 import dva from 'dva';
 // @ts-ignore
-import createLoading from '/Users/weiber/htdocs/three/proj/node_modules/dva-loading/dist/index.esm.js';
+import createLoading from '/Users/weiber/htdocs/three/SFRoom/node_modules/dva-loading/dist/index.esm.js';
 import { plugin, history } from '../core/umiExports';
-import ModelCommonStore0 from '/Users/weiber/htdocs/three/proj/src/models/commonStore.js';
-import dvaImmer, { enableES5, enableAllPlugins } from '/Users/weiber/htdocs/three/proj/node_modules/dva-immer/dist/index.js';
+import ModelCommonStore0 from '/Users/weiber/htdocs/three/SFRoom/src/models/commonStore.js';
+import dvaImmer, { enableES5, enableAllPlugins } from '/Users/weiber/htdocs/three/SFRoom/node_modules/dva-immer/dist/index.js';
 
 let app:any = null;
 
