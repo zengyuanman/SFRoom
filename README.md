@@ -1,2 +1,15 @@
-# SFRoom
-3D机房，基于SF-THREE构造
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
